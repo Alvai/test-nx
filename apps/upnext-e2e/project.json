@@ -1,0 +1,8 @@
+{
+  "name": "upnext-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/upnext-e2e/src",
+  "implicitDependencies": ["upnext"],
+  "// targets": "to see all targets run: nx show project upnext-e2e --web",
+  "targets": {}
+}
